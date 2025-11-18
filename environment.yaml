@@ -1,0 +1,4 @@
+name: '522'
+channels:
+  - conda-forge
+prefix: /Users/yonasgebremarie/miniforge3/envs/522
