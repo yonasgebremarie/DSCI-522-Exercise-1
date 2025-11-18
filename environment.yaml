@@ -4,4 +4,3 @@ channels:
 dependencies:
   - pandas
   - python
-prefix: /Users/yonasgebremarie/miniforge3/envs/522
